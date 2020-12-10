@@ -1,0 +1,12 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\bin\Debug\oop_lab1_task1.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\bin\Debug\oop_lab1_task1.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\bin\Debug\oop_lab1_task1.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\obj\Debug\oop_lab1_task1.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\obj\Debug\oop_lab1_task1.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\obj\Debug\oop_lab1_task1.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\obj\Debug\oop_lab1_task1.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\bin\Debug\System.ValueTuple.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\bin\Debug\System.ValueTuple.xml
+C:\Users\Denzel\Desktop\Лабы\ООП\oop_lab1_task1\oop_lab1_task1\oop_lab1_task1\obj\Debug\oop_lab1_task1.csproj.CopyComplete

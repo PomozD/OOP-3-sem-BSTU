@@ -1,0 +1,5 @@
+Full Name: OOP_Lab_12.User
+Base Type: System.Object
+Is sealed: False
+Is class = True
+Is Public = True

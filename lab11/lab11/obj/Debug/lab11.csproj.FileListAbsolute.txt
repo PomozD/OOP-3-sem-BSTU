@@ -1,0 +1,7 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab11\lab11\obj\Debug\lab11.pdb

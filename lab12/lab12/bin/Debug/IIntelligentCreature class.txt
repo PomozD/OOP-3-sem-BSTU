@@ -1,0 +1,14 @@
+lab12.IIntelligentCreature - Method - get_LifeLength
+
+lab12.IIntelligentCreature - Method - get_IQ
+
+lab12.IIntelligentCreature - Method - get_Name
+
+lab12.IIntelligentCreature - Method - Think
+
+lab12.IIntelligentCreature - Property - LifeLength
+
+lab12.IIntelligentCreature - Property - IQ
+
+lab12.IIntelligentCreature - Property - Name
+

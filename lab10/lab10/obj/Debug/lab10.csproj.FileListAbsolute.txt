@@ -1,0 +1,7 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab10\lab10\obj\Debug\lab10.pdb

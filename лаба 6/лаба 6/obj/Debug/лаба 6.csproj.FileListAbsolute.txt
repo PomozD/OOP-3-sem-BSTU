@@ -1,0 +1,7 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\лаба 6\лаба 6\obj\Debug\лаба 6.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\лаба 6\лаба 6\obj\Debug\лаба 6.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\лаба 6\лаба 6\bin\Debug\лаба 6.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\лаба 6\лаба 6\bin\Debug\лаба 6.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\лаба 6\лаба 6\bin\Debug\лаба 6.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\лаба 6\лаба 6\obj\Debug\лаба 6.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\лаба 6\лаба 6\obj\Debug\лаба 6.pdb

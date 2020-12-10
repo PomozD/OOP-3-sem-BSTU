@@ -1,0 +1,18 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\4 лаба.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\4 лаба.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\4 лаба.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\obj\Debug\4 лаба.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\obj\Debug\4 лаба.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\obj\Debug\4 лаба.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\obj\Debug\4 лаба.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Buffers.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Memory.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Buffers.xml
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Memory.xml
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denzel\Desktop\Лабы\ООП\4 лаба\4 лаба\obj\Debug\4 лаба.csproj.CopyComplete

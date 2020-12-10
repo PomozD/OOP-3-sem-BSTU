@@ -1,0 +1,9 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\obj\Debug\lab13.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\bin\Debug\lab13.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\bin\Debug\lab13.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\bin\Debug\lab13.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\obj\Debug\lab13.csproj.CopyComplete
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\obj\Debug\lab13.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab13\lab13\obj\Debug\lab13.pdb

@@ -1,0 +1,24 @@
+Assembly: lab12.exe
+
+Class name: OOP_Lab12.Test - have public constructor: True
+
+OOP_Lab12.Test public methods: 
+get_LABName
+set_LABName
+PrintLabName
+ChangeLabName
+WriteSmth
+Equals
+GetHashCode
+GetType
+ToString
+
+Fields of class: OOP_Lab12.Test
+Fields: LabName
+Properties of class: OOP_Lab12.Test
+Properties: LABName
+
+OOP_Lab12.Test Implemented interfaces: 
+
+Methods with parm: test in class: OOP_Lab12.Test
+

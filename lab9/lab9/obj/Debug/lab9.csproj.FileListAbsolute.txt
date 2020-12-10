@@ -1,0 +1,7 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\lab9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\lab9\lab9\obj\Debug\lab9.pdb

@@ -1,0 +1,52 @@
+lab12.Human - Method - get_Name
+
+lab12.Human - Method - get_Country
+
+lab12.Human - Method - get_LifeLength
+
+lab12.Human - Method - get_IQ
+
+lab12.Human - Method - get_Day
+
+lab12.Human - Method - get_Month
+
+lab12.Human - Method - get_Year
+
+lab12.Human - Method - get_Sex
+
+lab12.Human - Method - Think
+
+lab12.Human - Method - ToString
+
+lab12.Human - Method - Met
+
+lab12.Human - Method - Met1
+
+lab12.Human - Method - Met2
+
+System.Object - Method - Equals
+
+System.Object - Method - GetHashCode
+
+System.Object - Method - GetType
+
+lab12.Human - Constructor - .ctor
+
+lab12.Human - Constructor - .ctor
+
+lab12.Human - Property - Name
+
+lab12.Human - Property - Country
+
+lab12.Human - Property - LifeLength
+
+lab12.Human - Property - IQ
+
+lab12.Human - Property - Day
+
+lab12.Human - Property - Month
+
+lab12.Human - Property - Year
+
+lab12.Human - Property - Sex
+

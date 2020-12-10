@@ -1,0 +1,7 @@
+C:\Users\Denzel\Desktop\Лабы\ООП\oop lab3\oop lab3\bin\Debug\oop lab3.exe.config
+C:\Users\Denzel\Desktop\Лабы\ООП\oop lab3\oop lab3\bin\Debug\oop lab3.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\oop lab3\oop lab3\bin\Debug\oop lab3.pdb
+C:\Users\Denzel\Desktop\Лабы\ООП\oop lab3\oop lab3\obj\Debug\oop lab3.csprojAssemblyReference.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\oop lab3\oop lab3\obj\Debug\oop lab3.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\Desktop\Лабы\ООП\oop lab3\oop lab3\obj\Debug\oop lab3.exe
+C:\Users\Denzel\Desktop\Лабы\ООП\oop lab3\oop lab3\obj\Debug\oop lab3.pdb
